@@ -1,4 +1,4 @@
-# ASP.NET MVC, ASP.NET Web API: CARLY - Car Rental application 
+# CARLY - Car Rental application 
 > The application assists a store manager in maintaining a car rental store       
 
 A responsive web application built using ASP.NET MVC and ASP.NET Web API frameworks. This project is more of a technical capability demonstration of both the frameworks than addressing a real life scenario. 
@@ -26,12 +26,3 @@ Windows:
 * Follow the regular build procedure
 * Instructions to enable social login can be found  [here](https://docs.microsoft.com/en-us/aspnet/mvc/overview/security/create-an-aspnet-mvc-5-app-with-facebook-and-google-oauth2-and-openid-sign-on).
 
-## Sample Runs
-(To be updated)
-
-## About me
-Raghavendra Harish  - rh2551@nyu.edu
-
-* [github](https://github.com/Raghav2018/)
-* [kaggle](https://www.kaggle.com/raghav2018)
-* [HackerRank](https://www.hackerrank.com/rh2551)
